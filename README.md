@@ -1,9 +1,9 @@
 Invisible reCAPTCHA
 ==========
 ![php-badge](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg)
-[![packagist-badge](https://img.shields.io/packagist/v/albertcht/invisible-recaptcha.svg)](https://packagist.org/packages/albertcht/invisible-recaptcha)
-[![Total Downloads](https://poser.pugx.org/albertcht/invisible-recaptcha/downloads)](https://packagist.org/packages/albertcht/invisible-recaptcha)
-[![travis-badge](https://api.travis-ci.org/albertcht/invisible-recaptcha.svg?branch=master)](https://travis-ci.org/albertcht/invisible-recaptcha)
+[![packagist-badge](https://img.shields.io/packagist/v/wellcaddie/invisible-recaptcha.svg)](https://packagist.org/packages/albertcht/invisible-recaptcha)
+[![Total Downloads](https://poser.pugx.org/wellcaddie/invisible-recaptcha/downloads)](https://packagist.org/packages/albertcht/invisible-recaptcha)
+[![travis-badge](https://api.travis-ci.org/wellcaddie/invisible-recaptcha.svg?branch=master)](https://travis-ci.org/albertcht/invisible-recaptcha)
 
 ![invisible_recaptcha_demo](http://i.imgur.com/1dZ9XKn.png)
 
@@ -19,7 +19,7 @@ In reCAPTCHA v2, users need to click the button: "I'm not a robot" to prove they
 ## Installation
 
 ```
-composer require albertcht/invisible-recaptcha
+composer require wellcaddie/invisible-recaptcha
 ```
 
 ## Laravel 5
