@@ -1,5 +1,5 @@
 {
-    "name": "albertcht/invisible-recaptcha",
+    "name": "wellcaddie/invisible-recaptcha",
     "description": "Invisible reCAPTCHA For Laravel.",
     "keywords": ["recaptcha", "no-captcha", "captcha", "invisible", "invisible-recaptcha", "laravel", "laravel5", "php"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Albert Chen",
             "homepage": "https://www.albert-chen.com"
+        },
+        {
+            "name": "Bryson Reece,
+            "homepage": "https://wellcaddie.com"
         }
     ],
     "require": {
